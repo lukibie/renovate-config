@@ -7,9 +7,5 @@
     }
   ],
   "rangeStrategy": "bump",
-  "ignoreNpmrcFile": true,
-  "npmrc": "@lukaszbieniek:registry=https://npm.pkg.github.com\n//npm.pkg.github.com/:_authToken=${NPM_TOKEN}",
-  "encrypted": {
-    "npmToken": "QutrYM6w0I/+4vBBGfIJdyPigjZlwHX36Tx9LZnBLxVJ6MB/Veei/koJO7CC2axVDZXz/p6dNnbADsdG1hiqPs4uDAOZdxBvSVeHS+p6QXfO2q2FIDxIY9EKfhL7Tdqabk9Nrc6+t6uqIZ6vCqF8s8+yqCk17aMd393Mk8K3ctm8MNrK7/tbkrtufDqr8dnx3wvhRkrJx+++ptKE02a5/EluFd4AcN70bJQPQuNGxwvGpWcrYjXc1e2gT8DT8kbQmjxs/Jtzuh34s4P3y/65fk3SWAs0TmBpU8cxT4kZJTDh5T8y+s507zcqCJ9sVpZZZR36VlgEKOOEyHgkVXHQ8w=="
-  }
+  "ignoreNpmrcFile": true
 }
